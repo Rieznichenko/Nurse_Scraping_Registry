@@ -1,0 +1,43 @@
+fase 1
+1: the user clicks a destination
+2: on the next page he enters his departure adress ==> a table with all departure airports is opened containing the driving distance and hours from that adress to the airports, ranged by driving hours (using google maps api?}
+3: the user selects the airports he wants to fly from
+4: he enters the number of passengers and the departure and return date
+5: when clicking the go button a table is shown with all prices (2 days before to 2 =days after the entered dates
+
+fase 2: adding to fase 1
+1: the user can choose between 2 options
+       -departure and return by the same carrier
+       -departure by one carrier and return by another carrier
+2: the user can add minimum departure time and/or maximum arrival time
+3: the user can add luggage costs
+
+fase 3
+1: the user can add the cost of transport to and from airport 
+         1: transport by car + parking cost (from an api)
+         2: cost airport taxi
+         3: cost of public transportation
+
+fase 4: adding cost for staying at the destination
+1: taxi cost from airport to destination
+    rent a car
+    rent a bike or other
+2: hotel
+    airb&B
+    bread&breakfast
+    hostel
+3: activities
+         -buy tickets
+         -get passport during stay for musea etc
+         -get provider for mobile if needed
+         -groupon vouchers
+4: security
+          -travel insurance
+          -company for flights that are delayed too much
+          -extra health insurance
+when this is complete the next is adding extra option for making citytrips
+    -by bus (it is possible nowadays to travel trough europe by  bus
+    -by train
+    -by car (for destination that are within acceptable distance
+    -offeres from travel agencies that offers a complete package to  a destination
+that is it
